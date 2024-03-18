@@ -1,4 +1,4 @@
-module github.com/frones/nfe
+module github.com/rednaxelbr/nfe
 
 go 1.20
 
